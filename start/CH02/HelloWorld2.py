@@ -6,5 +6,4 @@
 user_name = input("What is your name? ")
 
 # Print hello and their name
-print("Hello {0}".format(user_name ))
-
+print("Hello {0}, You are looking fantabulous today!".format(user_n
